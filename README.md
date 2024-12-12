@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 I'm Rachel, a senior at Smith College studying Statistical and Data Sciences. My interests include data science, machine learning, robotics, and math outreach and education!
 
+### Contact
+Email: rachelreinking@gmail.com
+
+<a href="https://www.linkedin.com/in/rachel-reinking-512106267/">LinkedIn</a>
+
 ## Projects
 Here are some projects I have contributed and work that I am proud of!
 
